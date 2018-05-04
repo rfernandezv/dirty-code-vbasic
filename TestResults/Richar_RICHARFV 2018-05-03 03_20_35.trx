@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="a1ba1f1f-feaa-4b52-b3e3-13e563bfa293" name="Richar@RICHARFV 2018-05-03 03:20:35" runUser="RicharFV\Richar" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="a779d841-b4ed-40e6-887e-35c944400b45">
+    <Description>Esta es la configuración de pruebas predeterminada para una ejecución de pruebas local.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Richar_RICHARFV 2018-05-03 03_20_35">
+      <DeploymentItem filename="c:\users\richar\documents\visual studio 2010\Projects\dirty-code-vbasic\BusinessLayer\bin\Debug\BusinessLayer.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2018-05-03T03:20:35.1844075-05:00" queuing="2018-05-03T03:20:36.5618522-05:00" start="2018-05-03T03:20:36.7084279-05:00" finish="2018-05-03T03:20:57.2550984-05:00" />
+  <ResultSummary outcome="Inconclusive">
+    <Counters total="1" executed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="1" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="Register_EmptyFirstName_ThrowsArgumentNullException" storage="c:\users\richar\documents\visual studio 2010\projects\dirty-code-vbasic\businesslayer.tests\bin\debug\businesslayer.tests.dll" id="87862a49-00d3-9663-201c-2319f43a8466">
+      <Execution id="51ad89cc-8d0b-46d4-a697-dc7b076ecb47" />
+      <TestMethod codeBase="c:/users/richar/documents/visual studio 2010/Projects/dirty-code-vbasic/BusinessLayer.Tests/bin/Debug/BusinessLayer.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BusinessLayer.Tests.SpeakerTest, BusinessLayer.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Register_EmptyFirstName_ThrowsArgumentNullException" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Resultados que no están en la lista" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Todos los resultados cargados" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="87862a49-00d3-9663-201c-2319f43a8466" executionId="51ad89cc-8d0b-46d4-a697-dc7b076ecb47" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="51ad89cc-8d0b-46d4-a697-dc7b076ecb47" testId="87862a49-00d3-9663-201c-2319f43a8466" testName="Register_EmptyFirstName_ThrowsArgumentNullException" computerName="RICHARFV" duration="00:00:19.0593126" startTime="2018-05-03T03:20:36.8219590-05:00" endTime="2018-05-03T03:20:57.1091389-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="51ad89cc-8d0b-46d4-a697-dc7b076ecb47">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.Inconclusive. Compruebe la exactitud de este método de prueba.</Message>
+          <StackTrace>   en BusinessLayer.Tests.SpeakerTest.Register_EmptyFirstName_ThrowsArgumentNullException() en c:\users\richar\documents\visual studio 2010\Projects\dirty-code-vbasic\BusinessLayer.Tests\SpeakerTest.vb:línea 67
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

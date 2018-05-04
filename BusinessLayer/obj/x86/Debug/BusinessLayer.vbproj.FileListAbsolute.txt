@@ -1,0 +1,17 @@
+c:\users\richar\documents\visual studio 2010\Projects\dirty-code-vbasic\BusinessLayer\bin\Debug\BusinessLayer.exe
+c:\users\richar\documents\visual studio 2010\Projects\dirty-code-vbasic\BusinessLayer\bin\Debug\BusinessLayer.pdb
+c:\users\richar\documents\visual studio 2010\Projects\dirty-code-vbasic\BusinessLayer\bin\Debug\BusinessLayer.xml
+c:\users\richar\documents\visual studio 2010\Projects\dirty-code-vbasic\BusinessLayer\obj\x86\Debug\BusinessLayer.Resources.resources
+c:\users\richar\documents\visual studio 2010\Projects\dirty-code-vbasic\BusinessLayer\obj\x86\Debug\BusinessLayer.vbproj.GenerateResource.Cache
+c:\users\richar\documents\visual studio 2010\Projects\dirty-code-vbasic\BusinessLayer\obj\x86\Debug\BusinessLayer.exe
+c:\users\richar\documents\visual studio 2010\Projects\dirty-code-vbasic\BusinessLayer\obj\x86\Debug\BusinessLayer.xml
+c:\users\richar\documents\visual studio 2010\Projects\dirty-code-vbasic\BusinessLayer\obj\x86\Debug\BusinessLayer.pdb
+C:\Users\Richar\Documents\Visual Studio 2015\Projects\dirty-code-vbasic\BusinessLayer\obj\x86\Debug\BusinessLayer.exe
+C:\Users\Richar\Documents\Visual Studio 2015\Projects\dirty-code-vbasic\BusinessLayer\obj\x86\Debug\BusinessLayer.xml
+C:\Users\Richar\Documents\Visual Studio 2015\Projects\dirty-code-vbasic\BusinessLayer\obj\x86\Debug\BusinessLayer.pdb
+C:\Users\Richar\Documents\Visual Studio 2015\Projects\dirty-code-vbasic\BusinessLayer\bin\Debug\BusinessLayer.exe
+C:\Users\Richar\Documents\Visual Studio 2015\Projects\dirty-code-vbasic\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Richar\Documents\Visual Studio 2015\Projects\dirty-code-vbasic\BusinessLayer\bin\Debug\BusinessLayer.xml
+C:\Users\Richar\Documents\Visual Studio 2015\Projects\dirty-code-vbasic\BusinessLayer\obj\x86\Debug\BusinessLayer.vbprojResolveAssemblyReference.cache
+C:\Users\Richar\Documents\Visual Studio 2015\Projects\dirty-code-vbasic\BusinessLayer\obj\x86\Debug\BusinessLayer.Resources.resources
+C:\Users\Richar\Documents\Visual Studio 2015\Projects\dirty-code-vbasic\BusinessLayer\obj\x86\Debug\BusinessLayer.vbproj.GenerateResource.Cache

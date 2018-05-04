@@ -1,0 +1,10 @@
+c:\users\richar\documents\visual studio 2010\Projects\dirty-code-vbasic\BusinessLayer.Tests\bin\Debug\BusinessLayer.Tests.dll
+c:\users\richar\documents\visual studio 2010\Projects\dirty-code-vbasic\BusinessLayer.Tests\bin\Debug\BusinessLayer.Tests.pdb
+c:\users\richar\documents\visual studio 2010\Projects\dirty-code-vbasic\BusinessLayer.Tests\bin\Debug\BusinessLayer.Tests.xml
+c:\users\richar\documents\visual studio 2010\Projects\dirty-code-vbasic\BusinessLayer.Tests\bin\Debug\BusinessLayer.exe
+c:\users\richar\documents\visual studio 2010\Projects\dirty-code-vbasic\BusinessLayer.Tests\bin\Debug\BusinessLayer.pdb
+c:\users\richar\documents\visual studio 2010\Projects\dirty-code-vbasic\BusinessLayer.Tests\bin\Debug\BusinessLayer.xml
+c:\users\richar\documents\visual studio 2010\Projects\dirty-code-vbasic\BusinessLayer.Tests\obj\Debug\BusinessLayer.Tests.vbprojResolveAssemblyReference.cache
+c:\users\richar\documents\visual studio 2010\Projects\dirty-code-vbasic\BusinessLayer.Tests\obj\Debug\BusinessLayer.Tests.dll
+c:\users\richar\documents\visual studio 2010\Projects\dirty-code-vbasic\BusinessLayer.Tests\obj\Debug\BusinessLayer.Tests.xml
+c:\users\richar\documents\visual studio 2010\Projects\dirty-code-vbasic\BusinessLayer.Tests\obj\Debug\BusinessLayer.Tests.pdb

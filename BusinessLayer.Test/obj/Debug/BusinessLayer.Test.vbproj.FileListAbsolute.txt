@@ -1,0 +1,17 @@
+C:\Users\Richar\Documents\Visual Studio 2015\Projects\dirty-code-vbasic\BusinessLayer.Test\bin\Debug\BusinessLayer.Test.dll
+C:\Users\Richar\Documents\Visual Studio 2015\Projects\dirty-code-vbasic\BusinessLayer.Test\bin\Debug\BusinessLayer.Test.pdb
+C:\Users\Richar\Documents\Visual Studio 2015\Projects\dirty-code-vbasic\BusinessLayer.Test\bin\Debug\BusinessLayer.Test.xml
+C:\Users\Richar\Documents\Visual Studio 2015\Projects\dirty-code-vbasic\BusinessLayer.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Richar\Documents\Visual Studio 2015\Projects\dirty-code-vbasic\BusinessLayer.Test\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Richar\Documents\Visual Studio 2015\Projects\dirty-code-vbasic\BusinessLayer.Test\obj\Debug\BusinessLayer.Test.vbprojResolveAssemblyReference.cache
+C:\Users\Richar\Documents\Visual Studio 2015\Projects\dirty-code-vbasic\BusinessLayer.Test\obj\Debug\BusinessLayer.Test.Resources.resources
+C:\Users\Richar\Documents\Visual Studio 2015\Projects\dirty-code-vbasic\BusinessLayer.Test\obj\Debug\BusinessLayer.Test.vbproj.GenerateResource.Cache
+C:\Users\Richar\Documents\Visual Studio 2015\Projects\dirty-code-vbasic\BusinessLayer.Test\obj\Debug\BusinessLayer.Test.dll
+C:\Users\Richar\Documents\Visual Studio 2015\Projects\dirty-code-vbasic\BusinessLayer.Test\obj\Debug\BusinessLayer.Test.xml
+C:\Users\Richar\Documents\Visual Studio 2015\Projects\dirty-code-vbasic\BusinessLayer.Test\obj\Debug\BusinessLayer.Test.pdb
+C:\Users\Richar\Documents\Visual Studio 2015\Projects\dirty-code-vbasic\BusinessLayer.Test\bin\Debug\BusinessLayer.exe
+C:\Users\Richar\Documents\Visual Studio 2015\Projects\dirty-code-vbasic\BusinessLayer.Test\bin\Debug\DataAccessLayer.exe
+C:\Users\Richar\Documents\Visual Studio 2015\Projects\dirty-code-vbasic\BusinessLayer.Test\bin\Debug\BusinessLayer.pdb
+C:\Users\Richar\Documents\Visual Studio 2015\Projects\dirty-code-vbasic\BusinessLayer.Test\bin\Debug\BusinessLayer.xml
+C:\Users\Richar\Documents\Visual Studio 2015\Projects\dirty-code-vbasic\BusinessLayer.Test\bin\Debug\DataAccessLayer.pdb
+C:\Users\Richar\Documents\Visual Studio 2015\Projects\dirty-code-vbasic\BusinessLayer.Test\bin\Debug\DataAccessLayer.xml

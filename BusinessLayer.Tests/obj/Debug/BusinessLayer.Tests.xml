@@ -1,0 +1,25 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+BusinessLayer.Tests
+</name>
+</assembly>
+<members>
+<member name="P:BusinessLayer.Tests.SpeakerTest.TestContext">
+	<summary>
+Obtiene o establece el contexto de la prueba que proporciona
+la información y funcionalidad para la ejecución de pruebas actual.
+</summary>
+</member><member name="M:BusinessLayer.Tests.SpeakerTest.Register_EmptyFirstName_ThrowsArgumentNullException">
+	<summary>
+Una prueba de Register
+</summary>
+</member><member name="T:BusinessLayer.Tests.SpeakerTest">
+	<summary>
+Se trata de una clase de prueba para SpeakerTest y se pretende que
+contenga todas las pruebas unitarias SpeakerTest.
+</summary>
+</member>
+</members>
+</doc>
